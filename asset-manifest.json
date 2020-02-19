@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ellwind/homer_test_deploy/static/css/main.240dbb7d.chunk.css",
+    "main.js": "/ellwind/homer_test_deploy/static/js/main.97557c0d.chunk.js",
+    "main.js.map": "/ellwind/homer_test_deploy/static/js/main.97557c0d.chunk.js.map",
+    "runtime-main.js": "/ellwind/homer_test_deploy/static/js/runtime-main.2ee420b0.js",
+    "runtime-main.js.map": "/ellwind/homer_test_deploy/static/js/runtime-main.2ee420b0.js.map",
+    "static/js/2.34bea953.chunk.js": "/ellwind/homer_test_deploy/static/js/2.34bea953.chunk.js",
+    "static/js/2.34bea953.chunk.js.map": "/ellwind/homer_test_deploy/static/js/2.34bea953.chunk.js.map",
+    "index.html": "/ellwind/homer_test_deploy/index.html",
+    "precache-manifest.2d179031c8bfe3fab0cc36ac8ea4c60c.js": "/ellwind/homer_test_deploy/precache-manifest.2d179031c8bfe3fab0cc36ac8ea4c60c.js",
+    "service-worker.js": "/ellwind/homer_test_deploy/service-worker.js",
+    "static/css/main.240dbb7d.chunk.css.map": "/ellwind/homer_test_deploy/static/css/main.240dbb7d.chunk.css.map",
+    "static/js/2.34bea953.chunk.js.LICENSE.txt": "/ellwind/homer_test_deploy/static/js/2.34bea953.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ee420b0.js",
+    "static/js/2.34bea953.chunk.js",
+    "static/css/main.240dbb7d.chunk.css",
+    "static/js/main.97557c0d.chunk.js"
+  ]
+}
