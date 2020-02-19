@@ -1,33 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32ab70e0-d8ab-4460-8b71-bdb9836f55d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/add.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/colors/text-color-black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/colors/text-color-blue.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/colors/text-color-green.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/colors/text-color-orange.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/colors/text-color-red.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icon-brand.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icon-document.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icon-link.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icon-note.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/video.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/add-content-button/add-content-button.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/add-content-button/add-content-button.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/add-note/add-note.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/add-note/add-note.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/menu-item/menu-item.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/menu-item/menu-item.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/note/note.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/note/note.component.jsx" afterDir="false" />
+    <list default="true" id="32ab70e0-d8ab-4460-8b71-bdb9836f55d8" name="Default Changelist" comment="Homer test app">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,8 +78,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582111327078</updated>
-      <workItem from="1582111328173" duration="16919000" />
+      <workItem from="1582111328173" duration="19738000" />
     </task>
+    <task id="LOCAL-00001" summary="Homer test app">
+      <created>1582128624133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582128624133</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,5 +103,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homer test app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homer test app" />
   </component>
 </project>
