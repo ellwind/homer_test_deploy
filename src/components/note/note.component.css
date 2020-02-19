@@ -1,0 +1,31 @@
+.note-item {
+    min-height: calc(255px - 68px);
+    width: calc(756px - 24px);
+    background: #fff;
+    border-radius: 8px;
+    padding: 25px 8px 44px 16px;
+    position: relative;
+    margin-bottom: 16px;
+}
+
+.note-item h2 {
+    font-size: 28px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: 0.34px;
+    color: #000000;
+    margin: 0 0 6px 0;
+}
+
+.note-item p {
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: -0.41px;
+    color: #000000;
+    margin: 0;
+}

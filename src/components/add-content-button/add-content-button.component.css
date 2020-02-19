@@ -1,0 +1,26 @@
+.add-content-button {
+    width: 359px;
+    display: flex;
+    padding: 12px 12px 16px 54px;
+    border-radius: 13px;
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.1);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    line-height: 1.26;
+    font-size: 23px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    position: relative;
+}
+
+.add-content-button .add-content-button__add-sign {
+    position: absolute;
+    top: 18px;
+    left: 20px;
+    display: flex;
+    widtH: 20px;
+    height: 20px;
+}

@@ -1,0 +1,184 @@
+.add-note-container {
+    margin-bottom: 16px;
+}
+.add-note-container.hidden {
+    display: none;
+}
+.add-note {
+    min-height: calc(256px - 68px);
+    width: calc(756px - 24px);
+    background: #fff;
+    border-radius: 8px;
+    padding: 24px 8px 44px 16px;
+    position: relative;
+}
+.add-note form {
+    display: flex;
+    flex-direction: column;
+}
+.add-note__title {
+    font-size: 28px;
+    border: none;
+    outline: none;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: 0.34px;
+    color: #000000;
+    margin: 0 0 5px 0;
+}
+
+.add-note__title::-webkit-input-placeholder {
+    opacity: 0.2;
+    font-size: 28px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: 0.34px;
+    color: #000;
+}
+
+.add-note__title::-moz-placeholder {
+    opacity: 0.2;
+    font-size: 28px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: 0.34px;
+    color: #000;
+}
+
+.add-note__title:-moz-placeholder{
+    opacity: 0.2;
+    font-size: 28px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: 0.34px;
+    color: #000;
+}
+
+.add-note__title:-ms-input-placeholder {
+    opacity: 0.2;
+    font-size: 28px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: 0.34px;
+    color: #000;
+}
+
+.add-note__note {
+    color: #000;
+    font-size: 17px;
+    border: none;
+    outline: none;
+    resize: none;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: -0.41px;
+    margin: 0;
+    padding: 0;
+}
+
+
+.add-note__note::-webkit-input-placeholder {
+    opacity: 0.2;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: -0.41px;
+    color: #000000;
+}
+
+.add-note__note::-moz-placeholder {
+    opacity: 0.2;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: -0.41px;
+    color: #000000;
+}
+
+.add-note__note:-moz-placeholder{
+    opacity: 0.2;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: -0.41px;
+    color: #000000;
+}
+
+.add-note__note:-ms-input-placeholder {
+    opacity: 0.2;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: -0.41px;
+    color: #000000;
+}
+
+.add-note__color {
+    position: absolute;
+    z-index: -100;
+    bottom: 0;
+    left: 0;
+    display: none;
+}
+
+.add-note__color-wrapper {
+    position: absolute;
+    bottom: 8px;
+    left: 8px;
+    cursor: pointer;
+}
+.add-note__color-picker.hidden {
+    display: none;
+}
+.add-note__color-picker {
+    display: flex;
+    flex-direction: column;
+}
+.add-note__color-picker img {
+ margin-bottom: 8px;
+}
+.add-note__submit {
+    width: 193px;
+    height: 34px;
+    border-radius: 7px;
+    background-color: #01ce87;
+    border: none;
+    outline: none;
+    bottom: 8px;
+    right: 8px;
+    position: absolute;
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: 0.47px;
+    text-align: center;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.add-note__submit:hover {
+    background: #07c080;
+}
+

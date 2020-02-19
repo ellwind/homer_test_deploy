@@ -1,0 +1,39 @@
+.menu-item {
+    display: flex;
+    padding: 9px 20px;
+    align-items: center;
+    cursor: pointer;
+    position: relative;
+}
+
+.menu-item:hover {
+    background-color: rgba(0,0,0,0.1);
+}
+
+.menu-item p {
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: -0.41px;
+    color: #000000;
+    margin: 0;
+}
+
+.menu-item img {
+    margin-right: 12px;
+    width: 32px;
+    height: 32px;
+}
+
+.menu-item:not(:last-child):before {
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    height: 1px;
+    width: calc(100% - 43px);
+    border-bottom: 1px solid #979797;
+    opacity: 0.1;
+}
